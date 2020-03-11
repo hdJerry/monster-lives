@@ -1,8 +1,8 @@
 {
-  "name": "monster-React",
+  "name": "monster-lives",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hdJerry.github.io/monster-React",
+  "homepage": "https://hdJerry.github.io/monster-lives",
   "dependencies": {
     "@testing-library/jest-dom": "4.2.4",
     "@testing-library/react": "9.5.0",
