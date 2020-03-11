@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  /* margin: 30px auto; */
+}
+body{
+  background: #3f51b5a1;
+}
+*{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
 
 .App-logo {
@@ -12,6 +21,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
@@ -26,6 +36,13 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.App .title{
+  font-size: 4rem;
+  font-family: 'Bigelow Rules', cursive;
+  color: #3f51b5;
+  margin: 5px 0;
 }
 
 @keyframes App-logo-spin {

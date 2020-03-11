@@ -1,0 +1,19 @@
+
+.card{
+  height: 350px;
+  padding: 10px;
+  background: #3f51b5;
+  transition: all 0.5s ease-out 0.2s;
+  border-radius: 6px;
+  color: #fff;
+}
+
+
+.card:hover {
+  transform: scale(1.07);
+
+}
+
+.card img{
+  width: 200px;
+}
