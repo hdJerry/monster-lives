@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monster-lives/static/css/main.6c87c3ac.chunk.css",
-    "main.js": "/monster-lives/static/js/main.f34eb332.chunk.js",
-    "main.js.map": "/monster-lives/static/js/main.f34eb332.chunk.js.map",
+    "main.css": "/monster-lives/static/css/main.1313a8fd.chunk.css",
+    "main.js": "/monster-lives/static/js/main.6c84c622.chunk.js",
+    "main.js.map": "/monster-lives/static/js/main.6c84c622.chunk.js.map",
     "runtime-main.js": "/monster-lives/static/js/runtime-main.d9b5ea73.js",
     "runtime-main.js.map": "/monster-lives/static/js/runtime-main.d9b5ea73.js.map",
     "static/js/2.79ee03cc.chunk.js": "/monster-lives/static/js/2.79ee03cc.chunk.js",
     "static/js/2.79ee03cc.chunk.js.map": "/monster-lives/static/js/2.79ee03cc.chunk.js.map",
     "index.html": "/monster-lives/index.html",
-    "precache-manifest.4ca13a818bc4d16f744c0e058bac4903.js": "/monster-lives/precache-manifest.4ca13a818bc4d16f744c0e058bac4903.js",
+    "precache-manifest.fb199b9bf0f5c4759d516bdbc99a3b80.js": "/monster-lives/precache-manifest.fb199b9bf0f5c4759d516bdbc99a3b80.js",
     "service-worker.js": "/monster-lives/service-worker.js",
-    "static/css/main.6c87c3ac.chunk.css.map": "/monster-lives/static/css/main.6c87c3ac.chunk.css.map",
+    "static/css/main.1313a8fd.chunk.css.map": "/monster-lives/static/css/main.1313a8fd.chunk.css.map",
     "static/js/2.79ee03cc.chunk.js.LICENSE.txt": "/monster-lives/static/js/2.79ee03cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9b5ea73.js",
     "static/js/2.79ee03cc.chunk.js",
-    "static/css/main.6c87c3ac.chunk.css",
-    "static/js/main.f34eb332.chunk.js"
+    "static/css/main.1313a8fd.chunk.css",
+    "static/js/main.6c84c622.chunk.js"
   ]
 }
